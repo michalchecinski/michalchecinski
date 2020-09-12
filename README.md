@@ -51,6 +51,12 @@ I'm always open to make webinar, presentation and/or help you with preparing con
 
 <br />
 
+### 🎤 Latest PL podcast episodes 🎧
+<!-- PODCAST-LIST:START -->
+<!-- PODCAST-LIST:END -->
+
+<br />
+
 ![Michal's github stats](https://github-readme-stats.vercel.app/api?username=michalchecinski&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalchecinski&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
