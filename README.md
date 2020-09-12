@@ -47,6 +47,11 @@ I'm always open to make webinar, presentation and/or help you with preparing con
 
 ### 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with multiple Azure subscriptions in console](https://michalchecinski.pl/en/working-with-multiple-azure-subscriptions-in-console/)
+- [Delete multiple Azure Service Principals except](https://michalchecinski.pl/en/delete-multiple-azure-service-principals-except/)
+- [Using files from other stage in Azure pipelines](https://michalchecinski.pl/en/using-files-from-other-stage-in-azure-pipelines/)
+- [Sending delayed messages to Azure Service Bus](https://michalchecinski.pl/en/service-bus-delayed-messages/)
+- [Task names in Azure Batch](https://michalchecinski.pl/en/task-names-in-azure-batch/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
