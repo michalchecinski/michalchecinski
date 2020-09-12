@@ -1,11 +1,11 @@
-name: Latest blog post workflow
+name: Latest podcast workflow
 on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest podcast episodes
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
