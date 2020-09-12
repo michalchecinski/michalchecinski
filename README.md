@@ -66,8 +66,8 @@ I'm always open to make webinar, presentation and/or help you with preparing con
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalchecinski&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://michalchecinski.pl
+[website]: https://michalchecinski.pl/en
 [twitter]: https://twitter.com/mi_checinski
 [youtube]: https://www.youtube.com/channel/UC_-wB0CZ6SeYy015Mds35Bg
-[instagram]: https://instagram.com/michecinski
+[instagram]: https://instagram.com/mi_checinski
 [linkedin]: https://linkedin.com/in/michecinski
