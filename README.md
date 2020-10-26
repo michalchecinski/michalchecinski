@@ -58,6 +58,7 @@ I'm always open to make webinar, presentation and/or help you with preparing con
 
 ### 🎤 Latest PL podcast episodes 🎧
 <!-- PODCAST-LIST:START -->
+- [Pandemia w projekcie](https://anchor.fm/michalchecinski/episodes/Pandemia-w-projekcie-elgq3e)
 - [Azure KeyVault](https://anchor.fm/michalchecinski/episodes/Azure-KeyVault-efmd6b)
 - [Wstęp do Azure Pipelines](https://anchor.fm/michalchecinski/episodes/Wstp-do-Azure-Pipelines-ee9dk7)
 - [Azure Managed Identity](https://anchor.fm/michalchecinski/episodes/Azure-Managed-Identity-ed1l89)
