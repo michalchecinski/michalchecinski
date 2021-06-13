@@ -1,5 +1,5 @@
 <h2 align="center">Michał Chęciński</h1>
-<h3 align="center">Azure ☁ | DevOps | .NET developer | Gold Microsoft Student Partner | blogger | podcaster</h2>
+<h3 align="center">Azure ☁ cloud engineer | DevOps | Gold Microsoft Student Ambassador | blogger | podcaster</h2>
 
 I'm passionate about building solutions on public cloud.
 
@@ -11,9 +11,9 @@ are my main skills.
 
 ### Hi there, I'm Michal 👋
 
-I'm a cloud engineer, DevOps and .NET developer working with Microsoft Azure cloud. Also, I'm a [Gold Microsot Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/507).
+I'm a cloud engineer, DevOps working with Microsoft Azure cloud. Also, I'm a [Gold Microsot Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/507). Formerly I was a .NET developer.
 
-I've got over 2 years of commercial experience. From the beginning of my career, I work with Azure. I used to be more Azure developer, but nowadays I focus on infrastructure, DevOps and automation.
+I've got over 3 years of commercial experience. From the beginning of my career, I work with Azure. I used to be more Azure developer, but nowadays I focus on infrastructure, DevOps and automation.
 
 In my free time I like riding a bike, public speaking is my other big passion.
 
@@ -21,7 +21,7 @@ I'm always open to make webinar, presentation and/or help you with preparing con
 
 ### Connect with me:
 
-[<img align="left" alt="MichalChecinski.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="checinski.cloud" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Michal Checinski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Michal Checinski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Michal Checinski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -71,7 +71,7 @@ I'm always open to make webinar, presentation and/or help you with preparing con
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalchecinski&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://michalchecinski.pl/en
+[website]: https://checinski.cloud
 [twitter]: https://twitter.com/mi_checinski
 [youtube]: https://www.youtube.com/channel/UC_-wB0CZ6SeYy015Mds35Bg
 [instagram]: https://instagram.com/mi_checinski
