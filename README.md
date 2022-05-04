@@ -1,5 +1,5 @@
 <h2 align="center">Michał Chęciński</h1>
-<h3 align="center">Azure ☁ cloud engineer | DevOps | Gold Microsoft Student Ambassador | blogger | podcaster</h2>
+<h3 align="center">Azure ☁ cloud architect engineer | DevOps | blogger | podcaster</h2>
 
 I'm passionate about building solutions on public cloud.
 
