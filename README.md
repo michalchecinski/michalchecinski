@@ -11,9 +11,9 @@ are my main skills.
 
 ### Hi there, I'm Michal 👋
 
-I'm a cloud engineer, DevOps working with Microsoft Azure cloud. Also, I'm a [Gold Microsot Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/507). Formerly I was a .NET developer.
+I'm a DevOps, cloud engineer and architect working with Microsoft Azure cloud. Also, I'm a [Gold Microsot Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/507). Formerly I was a .NET developer.
 
-I've got over 3 years of commercial experience. From the beginning of my career, I work with Azure. I used to be more Azure developer, but nowadays I focus on infrastructure, DevOps and automation.
+I've got over 4 years of commercial experience. From the beginning of my career, I work with Azure. I used to be more Azure developer, but nowadays I focus on infrastructure, DevOps and automation.
 
 In my free time I like riding a bike, public speaking is my other big passion.
 
