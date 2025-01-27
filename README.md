@@ -1,69 +1,15 @@
 <h2 align="center">Michał Chęciński</h1>
-<h3 align="center">Azure ☁ cloud architect engineer | DevOps | blogger | podcaster</h2>
-
-I'm passionate about building solutions on public cloud.
-
-- ☁ Azure
-- ⚙ DevOps & automation
-- 💻 .NET
-
-are my main skills.
+<h3 align="center">Azure ☁ Cloud Architect | Cloud Engineer | DevOps</h2>
 
 ### Hi there, I'm Michal 👋
 
-I'm a DevOps, cloud engineer and architect working with Microsoft Azure cloud. Also, I'm a [Gold Microsot Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/507). Formerly I was a .NET developer.
+Azure Cloud Architect & Engineer using DevOps for agile operation and delivery of business solutions.
 
-I've got over 4 years of commercial experience. From the beginning of my career, I work with Azure. I used to be more Azure developer, but nowadays I focus on infrastructure, DevOps and automation.
+Azure Cloud Architect, Engineer, and DevOps with over 6 years of experience across product, startup, and consulting companies.
 
-In my free time I like riding a bike, public speaking is my other big passion.
-
-I'm always open to make webinar, presentation and/or help you with preparing conference, meetup etc. Just drop me DM or email.
-
-### Connect with me:
-
-[<img align="left" alt="checinski.cloud" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Michal Checinski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Michal Checinski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Michal Checinski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Michal Checinski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Proficient in architecting, implementing, and maintaining cloud infrastructure in Microsoft Azure. Hands-on experience automating and optimizing deployments and other processes for cloud applications using IaC (Azure Bicep, Terraform, Ansible), CI/CD (Azure DevOps, GitHub Actions). Experienced in developing tools, scripts, and business solutions in .NET, Python, and Bash.
 
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="Microsoft Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="PowerShell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
-<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-### 📝 Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Working with multiple Azure subscriptions in console](https://michalchecinski.pl/en/working-with-multiple-azure-subscriptions-in-console/)
-- [Delete multiple Azure Service Principals except](https://michalchecinski.pl/en/delete-multiple-azure-service-principals-except/)
-- [Using files from other stage in Azure pipelines](https://michalchecinski.pl/en/using-files-from-other-stage-in-azure-pipelines/)
-- [Sending delayed messages to Azure Service Bus](https://michalchecinski.pl/en/service-bus-delayed-messages/)
-- [Task names in Azure Batch](https://michalchecinski.pl/en/task-names-in-azure-batch/)
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-
-### 🎤 Latest PL podcast episodes 🎧
-<!-- PODCAST-LIST:START -->
-- [Pandemia w projekcie](https://anchor.fm/michalchecinski/episodes/Pandemia-w-projekcie-elgq3e)
-- [Azure KeyVault](https://anchor.fm/michalchecinski/episodes/Azure-KeyVault-efmd6b)
-- [Wstęp do Azure Pipelines](https://anchor.fm/michalchecinski/episodes/Wstp-do-Azure-Pipelines-ee9dk7)
-- [Azure Managed Identity](https://anchor.fm/michalchecinski/episodes/Azure-Managed-Identity-ed1l89)
-- [Narzędzia dla Azure developera, administratora, DevOps-a](https://anchor.fm/michalchecinski/episodes/Narzdzia-dla-Azure-developera--administratora--DevOps-a-ecserk)
-<!-- PODCAST-LIST:END -->
 
 <br />
 
